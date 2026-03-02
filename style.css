@@ -15,12 +15,14 @@
     margin: 10px;
 }
 
-.amarelo2{
+.lado{
     background-color: yellow;
-    padding-right:100px;
+    padding-right:80px;
     margin:10px;
 }
-
+.baixo{
+    padding-bottom: 80px;
+}
 .flex{
     display: flex;
 }
